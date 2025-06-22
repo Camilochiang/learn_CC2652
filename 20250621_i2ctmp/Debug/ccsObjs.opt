@@ -1,0 +1,8 @@
+"./i2ctmp.o"
+"./syscfg/ti_devices_config.o"
+"./syscfg/ti_drivers_config.o"
+"./syscfg/ti_sysbios_config.o"
+"./main_tirtos.o"
+"../cc13x2_cc26x2_tirtos7.cmd"
+-lti_utils_build_linker.cmd.genlibs
+-llibc.a

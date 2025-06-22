@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug",
+      "command"   : "clang++ -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/kernel/tirtos7/packages\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source/ti/posix/ticlang\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/lib/clang/15.0.7/include\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg\" -DDeviceFamily_CC26X2 -xc",
+      "file"      : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/i2ctmp.c"
+   },
+   {
+      "directory" : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug",
+      "command"   : "clang++ -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/kernel/tirtos7/packages\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source/ti/posix/ticlang\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/lib/clang/15.0.7/include\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg\" -DDeviceFamily_CC26X2 -xc",
+      "file"      : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/main_tirtos.c"
+   },
+   {
+      "directory" : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug",
+      "command"   : "clang++ -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/kernel/tirtos7/packages\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source/ti/posix/ticlang\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/lib/clang/15.0.7/include\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg\" -DDeviceFamily_CC26X2 -xc",
+      "file"      : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg/ti_devices_config.c"
+   },
+   {
+      "directory" : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug",
+      "command"   : "clang++ -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/kernel/tirtos7/packages\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source/ti/posix/ticlang\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/lib/clang/15.0.7/include\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg\" -DDeviceFamily_CC26X2 -xc",
+      "file"      : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg/ti_drivers_config.c"
+   },
+   {
+      "directory" : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug",
+      "command"   : "clang++ -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/kernel/tirtos7/packages\" -I\"/Users/camilochiang/ti/simplelink_cc13xx_cc26xx_sdk_8_30_01_01/source/ti/posix/ticlang\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c++/v1\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/lib/clang/15.0.7/include\" -isystem\"/Users/camilochiang/ti/ti_cgt_tiarmclang_3.2.2.LTS/include/c\" -I\"/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg\" -DDeviceFamily_CC26X2 -xc",
+      "file"      : "/Users/camilochiang/Documents/tmp/CC2652/20250621_i2ctmp/Debug/syscfg/ti_sysbios_config.c"
+   }
+]
